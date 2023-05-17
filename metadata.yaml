@@ -1,0 +1,41 @@
+_repo: Public-opinion-and-the-teaching-of-history-in-the-United-States_70630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pierce, Bessie Louise
+    birthdate: 1888
+    deathdate: 1974
+    gutenberg_agent_id: '55834'
+    url: http://www.gutenberg.org/2009/agents/55834
+    wikipedia: https://en.wikipedia.org/wiki/Bessie_Louise_Pierce
+description: ''
+gutenberg_issued: '2023-04-23'
+identifiers:
+  gutenberg: '70630'
+  lccn: '26016920'
+language: en
+pgterms:marc904: https://archive.org/details/publicopinionand00pierrich/page/n7/mode/2up
+pgterms:marc905: 20220617182120pierce
+pgterms:marc906: '1926'
+pgterms:marc907: NY
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNY :$bAlfred A. Knopf, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'History -- Study and teaching -- United States'
+- !lcsh 'Educational law and legislation -- United States'
+- !lcsh 'United States -- History -- Study and teaching'
+- !lcc 'E151'
+- GITenberg
+tableOfContents: 'Part I: Statutory regulation of the teaching of history: The periods
+  of beginnings -- Nationalism and localism in history legislation, 1860-1900 -- Laws
+  for the expansion of the history curriculum, 1900-1917 -- The effect of the World
+  War on laws for teaching history -- Disloyalty charges against teachers since 1917
+  -- Part II: The activities of propagandist agencies: Attempts to control textbooks
+  -- The attack on history textbooks since 1917.'
+title: Public opinion and the teaching of history in the United States
+url: http://www.gutenberg.org/ebooks/70630
